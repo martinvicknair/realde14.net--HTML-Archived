@@ -1,2 +1,2 @@
-# realde14.net
-Bilingual tourism website for Real de Catorce https://realde14.net
+# realde14.net--HTML-Archived
+Historical archive of realde14.net (as published by Ed Alexander)
