@@ -1,0 +1,21 @@
+
+# Contact info submission
+
+url: realde14.net/
+site_owner: ElCafeQuemado.com
+address1: 
+address2: 
+city: Real de Catorce
+state: SLP
+country: Mexico
+postal_code: 78550
+phone_number: 
+display_email: 
+site_name: www.realde14.net
+site_description: Everything about Real de Catorce, SLP, Mexico
+
+Sponsored by      EL CAFE QUEMADO
+
+History, legends, pictures, maps, and tourist information, about the town and area.
+
+Current events and other news.
